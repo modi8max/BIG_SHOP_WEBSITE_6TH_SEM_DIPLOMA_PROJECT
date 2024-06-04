@@ -1,0 +1,2 @@
+# BIG_SHOP_WEBSITE_6TH_SEM_DIPLOMA_PROJECT
+ FRONT END : bootstrap,html,css,js and BACK END : asp.net And DATABASE:MS SQL
